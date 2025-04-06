@@ -1,3 +1,11 @@
+/*Relational Operators are of 6 Types
+== Equal to
+!= Not Equal to
+<  Less Than
+>  Greater Than
+<= Less Than or Equal To
+>= Greater Than or Equal To
+*/
 #include <iostream>
 using namespace std;
 int main()
