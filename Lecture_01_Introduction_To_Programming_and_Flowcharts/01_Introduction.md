@@ -12,4 +12,4 @@ Set Sum=A+B
 Print Sum  
 End  
 ### Flowchart  
-![Flowchart Example](Flowchart_Example.png)
+![Flowchart Example](03_Flowchart_Example.png)
