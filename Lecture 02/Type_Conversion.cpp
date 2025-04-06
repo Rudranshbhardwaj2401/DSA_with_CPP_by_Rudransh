@@ -17,7 +17,7 @@ int main()
     256-0,257-1,258-2 and so on
     */
 
-    char ch1 = 353; // 353%256=97
+    char ch1 = 353; // 353%256=97 (So will print a)
     cout << ch1 << endl;
     return 0;
 }
