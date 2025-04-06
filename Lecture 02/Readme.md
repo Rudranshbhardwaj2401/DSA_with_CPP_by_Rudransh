@@ -6,6 +6,6 @@ https://github.com/Rudranshbhardwaj2401/DSA_with_CPP_by_Rudransh/blob/5b3b1802d9
 ## Type Conversion
 https://github.com/Rudranshbhardwaj2401/DSA_with_CPP_by_Rudransh/blob/183fac1c13c7b329847eb871e0545e83e85f560a/Lecture%2002/Type_Conversion.cpp
 ## Arithmetic Operators
-https://github.com/Rudranshbhardwaj2401/DSA_with_CPP_by_Rudransh/blob/71f6888053048963093aa8941a45f1d32791beb6/Lecture%2002/Aritmetic_Operators.cpp
+https://github.com/Rudranshbhardwaj2401/DSA_with_CPP_by_Rudransh/blob/ca7215bb89c50c63a51e990655443407b25777c9/Lecture%2002/Aritmetic_Operators.cpp
 ## Relational Operators
 https://github.com/Rudranshbhardwaj2401/DSA_with_CPP_by_Rudransh/blob/71f6888053048963093aa8941a45f1d32791beb6/Lecture%2002/Relational_Operators.cpp

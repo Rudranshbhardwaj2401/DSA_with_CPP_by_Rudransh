@@ -13,17 +13,17 @@ int main()
 
     int n1 = 2;
     int n2 = 3;
-    bool a = (n1 == n2);
+    bool a = (n1 == n2); // 0
     cout << a << endl;
-    bool b = (n1 != n2);
+    bool b = (n1 != n2); // 1
     cout << b << endl;
-    bool c = (n1 < n2);
+    bool c = (n1 < n2); // 1
     cout << c << endl;
-    bool d = (n1 > n2);
+    bool d = (n1 > n2); // 0
     cout << d << endl;
-    bool e = (n1 <= n2);
+    bool e = (n1 <= n2); // 1
     cout << e << endl;
-    bool f = (n1 >= n2);
+    bool f = (n1 >= n2); // 0
     cout << f << endl;
 
     return 0;
