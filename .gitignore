@@ -2,3 +2,5 @@
 # !. means not ignore (.cpp,jpg,png,folders)
 *.exe
 *.vscode
+*.gitignore
+*.gitattributes
