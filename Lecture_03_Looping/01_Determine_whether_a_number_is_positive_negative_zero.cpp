@@ -18,13 +18,13 @@ int main()
     Statement 3;
     Statement 4;
     }
-    else 
+    else
     {
     Statement 5;
     Statement 6;
     }*/
 
-    if (n > 0) 
+    if (n > 0)
     {
         cout << "Entered number is Positive";
     }
